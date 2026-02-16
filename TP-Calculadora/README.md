@@ -13,4 +13,5 @@ Esta aplicación es una calculadora funcional desarrollada en **Python** utiliza
 
 ### 📸 Vista Previa
 
-![Captura de la Calculadora](/Img/captura_calculadora.png)
+![Captura de la Calculadora](Img/captura_calculadora.png)
+
