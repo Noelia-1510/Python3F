@@ -12,4 +12,5 @@ Esta aplicación es una calculadora funcional desarrollada en **Python** utiliza
     * Uso de paréntesis para jerarquía de operaciones.
 
 ### 📸 Vista Previa
-![Captura de la Calculadora](./Img\captura_calculadora.png)
+
+![Captura de la Calculadora](/Img/captura_calculadora.png)
