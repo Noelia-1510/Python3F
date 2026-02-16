@@ -30,4 +30,5 @@ print("El promedio es: ", promedio)
 # 5) Realizar un programa que muestre cualquier frase ingresada por el usuario en minúscula.
 
 frase = input("Ingrese una frase: ")
+
 print("La frase ingresada es: "+frase.lower())
