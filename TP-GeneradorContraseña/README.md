@@ -13,7 +13,6 @@ Este es un script de Python diseñado para generar contraseñas aleatorias altam
 * **Interfaz Estética**: Menú personalizado por consola con diseño visual para una mejor experiencia de usuario.
 
 ### 📸 Vista Previa
-![Captura del Generador de Contraseñas]
 
 ![Opción 1 solo Letras](Img/captura_opcion1.png)
 ![Opción 2 solo Numeros](Img/captura_opcion2.png)
