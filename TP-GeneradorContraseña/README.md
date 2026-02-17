@@ -12,9 +12,17 @@ Este es un script de Python diseñado para generar contraseñas aleatorias altam
 * **Diccionario Dinámico**: Gestión organizada de caracteres mediante el uso de la librería `string` y diccionarios de Python.
 * **Interfaz Estética**: Menú personalizado por consola con diseño visual para una mejor experiencia de usuario.
 
-### 📸 Vista Previa
+### 📸 Vista Previa Opciones
 
-![Opción 1 solo Letras](Img/captura_opcion1.png)
-![Opción 2 solo Numeros](Img/captura_opcion2.png)
-![Opción 3 Letras y Numeros](Img/captura_opcion3.png)
-![Opción 4 Letras, Numeros y Caracteres](Img/captura_opcion4.png)
+#### 1. Contraseña solo de Letras
+![Opción Letras](Img/captura_opcion1.png)
+
+#### 2. Contraseña solo de Números
+![Opción Números](Img/captura_opcion2.png)
+
+#### 3. Contraseña Letras y Números
+![Opción Mixta](Img/captura_opcion3.png)
+
+#### 4. Contraseña Completa (Letras, Números y Caracteres)
+![Opción Completa](Img/captura_opcion4.png)
+
